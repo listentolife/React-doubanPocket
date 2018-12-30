@@ -1,0 +1,1 @@
+export const CHANGE_ID = 'movieItem/change_id';

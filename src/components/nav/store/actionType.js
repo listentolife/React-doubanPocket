@@ -1,0 +1,1 @@
+export const FOCUSED_CHANGE = 'nav/focused_change'

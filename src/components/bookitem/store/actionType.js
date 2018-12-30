@@ -1,0 +1,1 @@
+export const CHANGE_ID = 'bookItem/change_id';

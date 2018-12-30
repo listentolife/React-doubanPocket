@@ -1,0 +1,1 @@
+export const CHANGE_KEYWORD = 'search/change_keyword';
